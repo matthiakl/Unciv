@@ -1,0 +1,46 @@
+[
+	{
+		name:"Stadt",
+		description: "Deine Städte sind die Grundlage deines Reiches. Jede Stadt hat eine bestimmte Anzahl an Einwohnern und viele Felder, und kann so viele Felder bearbeiten, wie sie Einwohner hat.\nDas Zentralfeld einer Stadt wird immer bearbeitet und benötigt keinen Einwohner.\nNeue Städte können durch den Bau eines Siedlers gebaut werden.\nJede Stadt in deinem Reich entfernt 3 Zufriedenheit aus dem Reich, und jeder Einwohner entfernt eine weitere 1 Zufriedenheit, also plane sorgfältig!"
+	},
+	{
+		name:"Feld",
+		description: "Felder sind Bereiche, in denen deine Einwohner das Land bearbeiten können. Jedes Feld hat ein Basisgelände, wie z.B. Grasland, Tundra usw., und einige haben Geländeüberlagerungen, wie z.B. Hügel, Wald usw. Abhängig vom Gelände können Felder Feldressourcen aufnehmen. Jedes Feld kann jederzeit eine Verbesserung aufweisen."
+	},
+	{
+		name:"Bevölkerung",
+		description: "Stellt die Anzahl der Menschen in deiner Stadt dar, die die Felder der Stadt bearbeiten können. Die Bevölkerung wächst, indem sie genügend überschüssige Nahrung hat, und wird schrumpfen, wenn es nicht genügend Nahrung gibt, um umherzugehen.\nJeder Einwohner verbraucht 2 Nahrung pro Runde.\nWenn eine neuer Einwohner hinzugefügt wird, wird er automatisch das Feld bearbeiten, das die meiste Nahrung produziert.\nDu kannst die Einwohner manuell den Felder zuordnen, indem du auf das Einwohnersymbol auf einem Feld klickst - Du musst einen Einwohner von einem Feld entfernen, um ihn woanders zuzuordnen!"
+	},
+	{
+		name:"Basisressourcen",
+		description: "Es gibt 6 grundlegende Ressourcen in Civ: Nahrung, Produktion, Gold, Wissenschaft, Zufriedenheit und Kultur.\rProduktion und Nahrung werden pro Stadt berechnet, während die anderen Ressourcen Landesweit sind.\rBasisressourcen werden durch arbeitende Stadtfelder und durch Gebäude produziert."
+	},
+	{
+		name:"Nahrung",
+		description: "Eine grundlegende Ressource. Jede Stadt kann überschüssige Nahrung speichern. Wenn die überschüssigen Nahrung eine bestimmte Menge erreichen, die von der Bevölkerung abhängt, wird sie konsumiert und die Stadt gewinnt einen neuen Einwohner. Wenn alle überschüssige Nahrung aufgebraucht ist und es einen Nahrungsmangel gibt, wird die Stadt einen Einwohner verlieren."
+	},
+	{
+		name:"Produktion",
+		description: "Eine grundlegende Ressource. Die Produktion wird verwendet, um Gebäude und Einheiten in der Stadt zu bauen. Jeder untätige Einwohner (der keine Felder bearbeitet) produziert 1 Produktion."
+	},
+	{
+		name:"Wissenschaft",
+		description: "Eine grundlegende Ressource. Stellt den wissenschaftlichen Fortschritt deines Imperiums dar.\nEine Technologie erfordert eine gewisse Menge an Wissenschaft, die mit zunehmender Weiterentwicklung der Technologien zunimmt.\nJeder Einwohner produziert 1 Wissenschaft."
+	},
+	{
+		name:"Gold",
+		description: "Eine grundlegende Ressource. Die meisten Gebäude haben Wartungskosten, die Gold pro Runde erfordern.\nJeder Zug, den du in einem Golddefizit bist, verlierst du Wissenschaftspunkte in Höhe deiner Schulden, die deinen wissenschaftlichen Fortschritt vollständig stoppen können!\nStädte, die mit der Hauptstadt über Straßen verbunden sind, werden Gold von der Handelsroute erzeugen, also verbinde deine Großstädte mit der Hauptstadt!"
+	},
+	{
+		name:"Zufriedenheit",
+		description: "Jede Stadt verringert die Zufriedenheit deines Imperiums um 3, und jeder Einwohner um 1.\nDu kannst deine Zufriedenheit durch Gebäude oder durch die Arbeit mit Luxusressourcen erhöhen.\nWenn du in einem unzufriedenen Zustand bist, wird deine überschüssige Nahrungszufuhr auf 1/4 reduziert, was dein Stadtwachstum drastisch verlangsamt.\nWenn genug Zufriedenheit angesammelt ist, wird dein Reich in ein goldenes Zeitalter eintreten!"
+	},
+	{
+		name:"Einheiten und Kampf",
+		description:"Du kannst dich mit zivilen und militärischen Einheiten über die Kartensymbole bewegen. Die Wartung jeder Einheit kostet 1 Gold pro Runde. Jede Einheit hat 100 Lebenspunkte, die durch den Kampf reduziert werden können. Militärische Einheiten können andere Einheiten und Städte angreifen und Verluste verursachen, die von ihrer Stärke abhängen. \nSiege und Fernkampfeinheiten können aus der Ferne angreifen, während andere Einheiten nur von einem benachbarten Feld aus angreifen. \nEine verletzte Einheit wird jede Runde langsam heilen, aber nur wenn sie inaktiv bleibt."
+	},
+	{
+		name:"Städteeroberung",
+		description: "Städte können erobert werden, indem man ihre Gesundheit auf 1 reduziert und die Stadt mit einer Nahkampfeinheit betritt. Da Städte jeden Zug heilen, ist es am besten, mit Fernkampfeinheiten anzugreifen und sie mit ihren Nahkampfeinheiten zu verteidigen, bis die Stadt besiegt ist!"
+	}
+]

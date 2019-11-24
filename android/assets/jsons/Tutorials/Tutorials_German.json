@@ -1,0 +1,408 @@
+{
+	// Each entry s a tutorial, but the tutorial may be spread over separate paragraphs.
+	// Entries starting with a _ will NOT be shown in Civilopedia.
+
+
+	New_Game: [
+		[
+			"Hallo, und willkommen bei Unciv!",
+			"Zivilisationsspiele können komplex sein, deshalb werden wir dich Schritt für Schritt führen.",
+			"Deine erste Mission ist es, deine Hauptstadt zu gründen.",
+			"Dies ist eigentlich eine wichtige Aufgabe, denn deine Hauptstadt wird wahrscheinlich deine wohlhabendste sein.",
+			"Viele Spielboni gelten nur für deine Hauptstadt und es wird wahrscheinlich das Zentrum deines Reiches sein."
+		],
+		[
+			"Woher weißt du, dass ein Platz angemessen ist?",
+			"Das ist keine leichte Frage, aber das Suchen und Bauen neben Luxusressourcen ist eine gute Faustregel.",
+			"Luxusressourcen sind Felder, die Dinge wie Edelsteine, Baumwolle oder Seide enthalten (Smiley neben dem Symbol).",
+			"Diese Ressourcen machen deine Zivilisation zufrieden. Du solltest auch nach Ressourcen Ausschau halten,",
+			"die zum Bau von Einheiten benötigt werden, wie z.B. Eisen."
+		],
+		[
+			"Städte haben jedoch keinen festen Bereich, in dem sie arbeiten können - dazu später mehr!",
+			"Das bedeutet, dass du keine Städte direkt neben den Ressourcen ansiedeln musst.",
+			"Nehmen wir zum Beispiel an, dass du Zugang zu etwas Eisen möchtest - aber die Ressource liegt direkt neben einer Wüste.",
+			"Du musst deine Stadt nicht in der Nähe der Wüste besiedeln. Du kannst ein paar Felder weiter in wohlhabenderen Ländern ansiedeln.",
+			"Deine Stadt wird wachsen und schließlich Zugang zu der Ressource erhalten.",
+			"Du musst nur direkt neben den Ressourcen siedeln, wenn du sie sofort brauchst - ",
+			"   was ab und zu der Fall sein mag, aber normalerweise hast du den Luxus der Zeit."
+		],
+
+	],
+
+
+	_City_Founded : [
+		[
+			"Du hast eine Stadt gegründet!",
+			"Städte sind das Lebenselixier deines Imperiums und bieten Gold und Wissenschaft im gesamten Imperium,",
+			"  die in der oberen Leiste angezeigt werden.",
+			"Du kannst auf den Städtenamen klicken, um den Städtebildschirm aufzurufen und die Einwohner zuzuordnen,",
+			"  die Produktion zu wählen und Informationen über die Stadt anzuzeigen."
+		],
+	]
+
+	First_Steps : [
+		[
+			"Sobald du deine erste Stadt in Betrieb hast, kannst du mit der Produktion einer neuen Einheit",
+			"  und deiner Forschung beginnen.",
+			"Ich werde mich noch nicht allzu sehr mit dem Forschungselement des Spiels befassen - das später im Leitfaden behandelt wird -",
+			"  also lasst uns einfach über die Produktion reden."
+		],
+		[
+			"Das erste, was aus deiner Stadt kommt, sollte entweder ein Kundschafter oder ein Krieger sein.",
+			"Ich bevorzuge den Krieger generell, weil er zur Verteidigung verwendet werden kann und weil er später im Spiel ",
+			"  für eine relativ bescheidene Goldsumme zu einem Schwertkämpferaufgerüstet werden kann.",
+			"Kundschafter können jedoch effektiv sein, wenn du dich in einem Gebiet mit dichten Wäldern und Hügeln befindest.",
+			"Kundschafter erleiden in diesem Gelände keine Bewegungseinschränkung.",
+			"Wenn du ein Veteran des 4x Strategie-Genres bist, wird deinem ersten Krieger oder Kundschafter ein Siedler folgen.",
+			"Die schnelle Erweiterung ist in den meisten Spielen dieser Art absolut entscheidend."
+		],
+	],
+
+
+	Next_Turn : [
+		[
+			"Sobald du alles getan hast, was du in diesem Zug tun kannst, ",
+			"  klicke auf den nächste Runde Knopf oben rechts, um fortzufahren."
+		],
+		[
+			"In jedem Zug werden Wissenschaft, Kultur und Gold zu deiner",
+			"  Zivilisation hinzugefügt, deine Städte werden ausgebaut",
+			"  und sie können in der Bevölkerung oder in der Fläche wachsen."
+		]
+	],
+
+	Slow_Start: [
+		[
+			"In deinen ersten paar Runden,",
+			"  wirst du nur sehr wenige Möglichkeiten haben,",
+			"  aber wenn deine Zivilisation wächst, wachsen auch die ",
+			"  Anzahl der Dinge, die deine Aufmerksamkeit erfordern."
+		]
+	],
+
+	Culture_and_Policies: [ // Activated when entering policy picker screen
+		[
+			"Jede Runde wird die Kultur, die du von all deinen Städten",
+			"  gewinnst deiner Zivilisation hinzugefügt.",
+			"Wenn du genug Kultur hast, kannst du dich für eine ",
+			"  Sozialpolitik entscheiden, jede davon gibt dir einen bestimmten Bonus."
+		],
+		[
+			"Die Grundsätze sind in Zweigen organisiert, wobei jeder einzelne von ihnen",
+			"  eine Bonusfähigkeit gewährt, wenn alle Punkte dieses Zweiges",
+			"  angenommen wurden."
+		],
+		[
+			"Mit jedem Grundsatz, der angenommen wird, und mit jeder Stadt, die gebaut wird,",
+			"  steigen die Kosten für die Einführung einer anderen Grundsatz - also wähle bedacht!"
+		]
+	],
+
+	Cities: [
+		[
+			"Jeder Einwohner in deiner Stadt kann ein einzelnes Feld bearbeiten und der Stadt die Erträge dieses Feldes liefern.",
+			"Die Einwohner können durch Anklicken der Felder zugewiesen und aufgehoben werden - ",
+			"  aber natürlich kannst du die Einwohner nur zuweisen, wenn du ungenutzte Einwohner zur Verfügung hast!"
+		],
+		[
+			"Das Zentralfeld einer Stadt wird immer bearbeitet und benötigt keine Einwohner,",
+			"  aber es kann nicht durch Feldverbesserungen verbessert werden.",
+			"Die Produktion der Stadt geht immer in Richtung des aktuellen Baus - ",
+			"  du kannst den Bau der Stadt auswählen, indem du auf die Schaltfläche Bauen unten links klickst."
+		]
+		[
+			"Städte wachsen in der Bevölkerung, wenn genügend überschüssige Lebensmittel angesammelt wurde.",
+			"Ebenso wachsen die Grenzen deiner Stadt, wenn du genügend Kultur gesammelt hast,",
+			"  die nicht durch Felder, sondern durch Gebäude erzeugt wurde."
+		],
+	],
+
+	Technology: [
+		[
+			"Technologie ist von zentraler Bedeutung für deine Zivilisation,",
+			" da der technologische Fortschritt mehr Konstruktionsmöglichkeiten, ",
+			" Verbesserungen und Fähigkeiten mit sich bringt."
+		],
+		[
+			"Die meisten Technologien sind abhängig von anderen Technologien, die erforscht werden müssen - ",
+			"  aber du kannst eine Technologie wählen, die du anstrebst,",
+			"  und deine Zivilisation wird die notwendigen Technologien erforschen, um dorthin zu gelangen."
+		]
+	],
+
+
+
+
+	Happiness:[
+		[
+			"Wenn Städte an Größe und Einfluss wachsen, musst du dich mit einer Zufriedenheitsmechanik auseinandersetzen,",
+			"die nicht mehr an jede einzelne Stadt gebunden ist.",
+			"Stattdessen teilt dein gesamtes Imperium das gleiche Maß an Zufriedenheit.",
+			"Da deine Städte in der Bevölkerung wachsen, wirst du feststellen, dass es immer schwieriger wird, dein Reich zufrieden zu stellen."
+		],
+		[
+			"Darüber hinaus kannst du nicht einmal Stadtverbesserungen bauen, die die Zufriedenheit erhöhen,",
+			"bis du die entsprechende Forschung durchgeführt hast.",
+			"Wenn die Zufriedenheit deines Imperiums jemals unter Null geht, wird die Wachstumsrate deiner Städte leiden.",
+			"Wenn dein Imperium schwer unzufrieden wird (wie durch das Smileygesichtssymbol oben im Interface angezeigt),",
+			"  werden deine Armeen eine große Strafe auf ihre allgemeine Kampfeffektivität erhalten."
+		],
+		[
+			"Dies bedeutet, dass es sehr schwierig ist, in Unciv schnell zu expandieren.",
+			"Es ist nicht unmöglich, aber als neuer Spieler solltest du es wahrscheinlich nicht tun.",
+			"Also, was sollst du tun? Entspanne, erkunde und verbessere das Land, das du hast, indem du Arbeiter baust.",
+			"Baue erst dann neue Städte, wenn du einen Platz gefunden hast, der deiner Meinung nach angemessen ist."
+		],
+
+	]
+
+
+	World_Map: [
+		[
+			"Die Weltkarte besteht aus mehreren Felder.",
+			"Jedes Feld kann Einheiten, Ressourcen und Verbesserungen enthalten, auf die wir später zurückkommen werden.",
+			"Die Position des Symbols zeigt Ihnen, was es bedeutet.",
+			"Für weitere Details kannst du auf das Feld klicken und die Feldinformationen einsehen."
+		]
+	],
+
+
+	Tile_Clicked : [
+		[
+			"Wenn du auf ein Feld klickst, wird dieses Feld ausgewählt,",
+			"  und zeigt Informationen über dieses Feld unten rechts an.",
+			"Wenn das Feld eine Einheit enthält, wird diese zur ausgewählten Einheit,",
+			"  und ihre Informationen und Aktionen werden unten links angezeigt."
+		]
+	],
+
+	Unit_Selected : [
+		[
+			"Wenn eine Einheit ausgewählt ist, werden ihre Informationen in der linken unteren Ecke angezeigt.",
+			"Die verfügbaren Aktionen dieser Einheit werden über den Feldinformationen angezeigt."
+		]
+	],
+
+
+	Unhappiness:  [
+		[
+			"Es scheint, dass deine Bürger unzufrieden sind!",
+			"Obwohl unzufrieden, werden die Städte mit 1/4 der Geschwindigkeit wachsen,",
+			"  und deine Einheiten werden für jede Unzufriedenheit eine Strafe von 2% erleiden."
+		],
+		[
+			"Unzufriedenheit hat zwei Hauptursachen: Bevölkerung und Städte",
+			"  Jede Stadt verursacht 3 Unzufriedenheit, und jeder Einwohner 1"
+		],
+		[
+			"Es gibt 2 Hauptwege, um die Unzufriedenheit zu bekämpfen:",
+			"  indem du Zufriedenheitsgebäude für deine Bevölkerung baust",
+			"  oder durch verbesserte Luxusressourcen innerhalb deiner Grenzen."
+		]
+	],
+
+	Golden_Age:  [
+		[
+			"Du bist in ein goldenes Zeitalter eingetreten!",
+			"Goldene Alterspunkte werden in jedem Zug durch die Gesamtzufriedenheit ",
+			"  deiner Zivilisation gesammelt.",
+			"In einem goldenen Zeitalter, steigen Kultur und Produktion um +20%,",
+			"  und jedes Feld, das bereits mindestens ein Gold enthält, liefert ein zusätzliches Gold."
+		]
+	],
+
+	Roads_and_Railroads:  [
+		[
+			"Verbinden deine Städte mit der Hauptstadt über Straßen",
+			"  wird Gold über den Handelsweg generieren.",
+			"Beachte, dass jede Straße 1 Gold Wartung pro Runde kostet, und jede Eisenbahn 2 Gold,",
+			"  also kann es wirtschaftlicher sein, zu warten, bis die Städte wachsen!"
+		]
+
+	]
+
+	Victory_Types:[
+		[
+			"Sobald du deine ersten zwei oder drei Städte erledigt hast, bist du wahrscheinlich 100 bis 150 Züge im Spiel.",
+			"Jetzt ist ein guter Zeitpunkt, um darüber nachzudenken, wie genau du gewinnen willst - wenn du es nicht schon getan hast."
+		],
+		[
+			"Es gibt drei Möglichkeiten, in Unciv zu gewinnen. Das sind sie:",
+			" - Kultureller Sieg: Vervollständige 4 Sozialpolitische Bäume",
+			" - Herrschaftssieg: Überleben als die letzte Zivilisation",
+			" - Wissenschaftssieg: Sei der Erste, der ein Raumschiff für Alpha Centauri baut."
+		],
+		[
+			"Zusammenfassend lässt sich sagen, dass dies die Grundlagen von Unciv sind - Gründe eine florierende erste Stadt,",
+			"  expandiere langsam um der Zufriedenheit gerecht zu werden",
+			"  und bereite dich auf die Siegesbedingung vor, die du anstrebst.",
+			"Natürlich steckt noch viel mehr dahinter, aber es ist wichtig, nicht ins kalte Wasser zu springen, bevor man schwimmen kann.",
+		]
+	]
+
+	Enemy_City:  [
+		[
+			"Städte können erobert werden, indem man ihre Gesundheit auf 1 reduziert",
+			"  und die Stadt mit einer Nahkampfeinheit betritt.",
+			"Da Städte jeden Zug heilen, ist es am besten, mit Fernkampfeinheiten anzugreifen",
+			"  und sie mit deinen Nahkampfeinheiten zu verteidigen, bis die Stadt besiegt ist!"
+		]
+	]
+
+	Luxury_Resource:  [
+		[
+			"Luxursressourcen innerhalb deines Gebietes und mit ihrer spezifischen Verbesserung werden mit deinem Handelsnetzwerk verbunden.",
+			"Jede einzigartige Luxusressource, die du hast, bringt 5 Zufriedenheit in deine Zivilisation,",
+			"  aber zusätzliche Ressourcen des gleichen Typs fügen nichts hinzu, ",
+			"  also benutze sie für den Handel mit anderen Zivilisationen!"
+		]
+	]
+
+	Strategic_Resource:  [
+		[
+			"Strategische Ressourcen innerhalb deines Gebietes und mit ihrer spezifischen Verbesserung werden mit deinem Handelsnetzwerk verbunden.",
+			"Strategische Ressourcen ermöglichen es dir, Einheiten zu trainieren und Gebäude zu bauen, die",
+			"  diese spezifischen Ressourcen erfordern, z.B. benötigt der Reiter Pferde.",
+			"Jede Einheit 'verbraucht' eine Kopie dieser Ressource, aber wenn die Einheit getötet wird, kannst du eine neue Einheit",
+			"  mit deiner jetzt ungenutzten Ressource erstellen.",
+			"In der oberen Leiste wird angezeigt, wie viele ungenutzte strategische Ressourcen du besitzt."
+		]
+	]
+
+	_EnemyCityNeedsConqueringWithMeleeUnit:  [
+		[
+			"Die Stadt kann keinen Widerstand mehr leisten!",
+			"Um sie jedoch zu erobern, musst du die Stadt mit einer Nahkampfeinheit betreten."
+		]
+	],
+
+	After_Conquering: [
+		[
+			"Wenn du eine Stadt eroberst, kannst du jetzt wählen, ob du die Stadt entweder zerstörst, gehen lässt oder sie angliederst.",
+			"Wenn man die Stadt zerstört, sinkt die Bevölkerung um 1 Runde pro Runde, bis die Stadt zerstört ist.",
+		],
+		[
+			"Das Gehen lassen der Stadt bedeutet, dass du keine Kontrolle über die Produktion der Stadt hast.",
+			"Die Stadt wird deine Technologie- oder Politikkosten nicht erhöhen,",
+			"  aber ihre Bürger werden das 1,5-fache der regelmäßigen Unzufriedenheit erzeugen.",
+			"Die Annexion der Stadt gibt dir die Kontrolle über die Produktion, erhöht aber die Unzufriedenheit der Bürger auf 2x!",
+			"Dies kann gemildert werden, indem man ein Gerichtsgebäude in der Stadt baut und die Unzufriedenheit der Bürger wieder normalisiert.",
+			"Eine gehen gelassene Stadt kann jederzeit annektiert werden, aber annektierte Städte können nicht gehen gelassen werden!"
+		]
+	],
+
+	_BarbarianEncountered:  [
+		[
+			"Du bist einer barbarischen Einheit begegnet!",
+			"Barbaren greifen jeden wahllos an, also lasse nicht zu, dass deine ",
+			"  zivile Einheiten sich ihnen nähern und sei vorsichtig mit deinem Kundschafter!"
+		]
+	]
+
+	_OtherCivEncountered:  [
+		[
+			"Du bist einer anderen Zivilisation begegnet!",
+			"Andere Zivilisationen beginnen friedlich, und man kann mit ihnen handeln,",
+			"  aber sie können sich entscheiden, dir später den Krieg zu erklären."
+		]
+	]
+
+	_GameCrashed:  [
+		[
+			"Oh nein! Es sieht so aus, als wäre etwas katastrophal schief gelaufen!",
+			"Das darf absolut nicht passieren!",
+			"Bitte sende mir (yairm210@hotmail.com) eine E-Mail mit den Spielinformationen.",
+			"   (Menü -> Spiel speichern -> Spielinfo kopieren -> in E-Mail einfügen)",
+			"   und ich werde versuchen, es so schnell wie möglich zu reparieren!"
+		]
+	]
+
+	Apollo_Program:  [
+		[
+			"Sobald du das Apollo-Programm abgeschlossen hast, kannst du mit dem Bau von Raumschiffteilen in deinen Städten beginnen",
+			" (mit den entsprechenden Technologien), um einen wissenschaftlichen Sieg zu erringen!"
+		]
+	]
+
+	Injured_Units:[
+		[
+			"Verletzte Einheiten verursachen weniger Schaden, erholen sich aber nach einer Runde, die sie inaktiv waren.",
+			"Einheiten heilen 5 Lebenspunkte pro Runde im feindlichen Gebiet, 10 im neutralen Land,",
+			"  15 in deinem Gebiet und 20 in deinen Städten."
+		]
+	]
+
+	Workers:[
+		[
+			"Arbeiter sind entscheidend für das Wachstum deiner Städte, da nur sie Verbesserungen an Feldern vornehmen können.",
+			"Verbesserungen erhöhen den Ertrag deiner Felder, so dass deine Stadt mehr produzieren und schneller wachsen kann,",
+			"  während die gleiche Anzahl von Felder bearbeitet wird!"
+		]
+	]
+
+	Siege_Units:[
+		[
+			"Belagerungseinheiten sind extrem mächtig gegen Städte, müssen aber erst eingerichtet werden, bevor sie angreifen können.",
+			"Sobald deine Belagerungseinheit eingerichtet ist, kann sie von dem aktuellen Feld aus angreifen,",
+			"  aber sobald es auf ein anderes Feld verschoben wurde, muss es neu eingerichtet werden."
+		]
+	]
+
+	Embarking:[
+		[
+			"Sobald eine bestimmte Technologie erforscht ist, können deine Landeinheiten einschiffen, so dass sie Wasserfelder passieren können.",
+			"Das Ein- und Auslaufen von Wasser nimmt die gesamte Bewegungspunkte in Anspruch.",
+			"Die Einheiten sind wehrlos, während sie an Bord gehen, also sei vorsichtig!"
+		]
+	]
+
+	City_Range:[
+		[
+			"Deine Bürger können 3 Felder vom Stadtzentrum entfernt arbeiten.",
+			"Die Stadtgrenze wird sich weiter ausdehnen,",
+			"   aber Bürger können nicht den fernen Feldern zugeordnet werden.",
+		]
+	]
+
+
+	Idle_Units:[
+		[
+			"Wenn du eine Einheit in diesem Zug nicht bewegen möchtest, kansst du sie überspringen, indem du erneut auf 'Nächste Einheit' klickst.",
+			"Wenn du sie für eine Weile nicht bewegst, kannst du die Einheit in den Befestigungs- oder Schlafmodus versetzen - ",
+			"  Einheiten in Befestigung oder Schlaf gelten nicht als ungenutzte Einheiten.",
+			"Wenn du die Funktion 'Nächste Einheit' vollständig deaktivieren möchtest, kannst du sie im Menü -> Auf ungenutzte Einheiten prüfen umschalten.",
+		]
+	]
+
+
+	Contact_Me:  [
+		[
+			"Hallo, hallo! Wenn du so weit gespielt hast, hast du wahrscheinlich",
+			"  gesehen, dass das Spiel derzeit unvollständig ist.",
+			"UnCiv soll Open-Source und frei sein, für immer.",
+			"  Das heißt, keine Werbung oder sonstiger Unsinn.",
+		],
+		[
+			"Was mich motiviert, weiter daran zu arbeiten, ",
+			"  abgesehen von der Tatsache, dass ich es unglaublich cool finde, dass ich es kann,",
+			"  ist die Unterstützung der Spieler - ihr seid die Besten!"
+		],
+		[
+			"Jede Bewertung, die ich bekomme, bringt ein Lächeln auf mein Gesicht =)",
+			"  Also kontaktiere mich! Schicken Sie mir eine E-Mail, Rezension, Github-Ausgabe",
+			"  oder Brieftaube, und lass uns herausfinden, wie man das Spiel noch  ",
+			"  geiler machen kann!",
+			"(Kontaktinformationen findest du im Play Store)"
+		]
+	],
+
+	_Pillaging:[
+		[
+			"Militärische Einheiten können Verbesserungen plündern, die sie 25 Gesundheit heilen und die Verbesserung ruinieren.",
+			"Das Feld kann noch bearbeitet werden, aber die Vorteile der Verbesserung - Statistische Boni und Ressourcen - gehen verloren.",
+			"Die Arbeiter können diese Verbesserungen reparieren, was weniger Zeit in Anspruch nimmt, als die Verbesserung von Grund auf neu aufzubauen.",
+		]
+	]
+
+}
