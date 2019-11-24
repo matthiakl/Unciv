@@ -2864,15 +2864,15 @@
 }
 
 	"Can be found on ":{ // For resources in civilopedia: Can be found on Forest, Hills, Jungle
-		Italian:"Può trovarsi su"
+		Italian:"Può trovarsi su "
 		Simplified_Chinese:"可能发现该资源的地形地貌："
 		Traditional_Chinese:"可能發現該資源的地形地貌："
 		French:"Peut être trouver sur "
 		Portuguese:"Pode ser encontrado em "
 		Russian:"Может быть найден в "
 		Czech:"Může se objevit v/na "
-		Ukrainian:"Може бути знайдений в"
-		German:"Kann gefunden werden in"
+		Ukrainian:"Може бути знайдений в "
+		German:"Kann gefunden werden in "
 }
 
 	"Improved by [improvement]":{
@@ -2907,8 +2907,8 @@
 		Portuguese:"Pode ser construido em "
 		Russian:"Может быть построен на "
 		Czech:"Může být vybudován(a/o) v/na "
-		Ukrainian:"Може бути побудований на"
-		German:"Kann gebaut werden auf"
+		Ukrainian:"Може бути побудований на "
+		German:"Kann gebaut werden auf "
 }
 
 	"Defence bonus":{
